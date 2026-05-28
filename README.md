@@ -2,8 +2,24 @@
 
 **Reference Image + Prompt → Roblox-Ready 3D Models**
 
-## What It Does
+## Features Planned
 
-Upload a sketch + write a prompt → AI generates a 3D model for Roblox Studio
+- 📸 Upload reference images from camera/gallery
+- ✍️ Write text prompts to guide style
+- 🤖 AI-powered 3D generation
+- 💾 Export to Roblox .rbxm format
+- 🔌 One-click Roblox Studio import
 
-## How It Works
+## Status
+
+🚧 Planning phase – everyone welcome to contribute ideas!
+
+## How to Help
+
+1. Star this repo ⭐
+2. Open an Issue with your feature requests
+3. Share with Roblox developers
+
+---
+
+Created on 📱 | Building in public
